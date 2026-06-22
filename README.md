@@ -1,5 +1,7 @@
 # cognitive-load-minimization
 
+[![skills.sh](https://skills.sh/b/EgehanYildiz/cognitive-load-minimization)](https://skills.sh/EgehanYildiz/cognitive-load-minimization)
+
 A self-contained [Agent Skill](https://agentskills.io) that audits and reduces the **cognitive load** of any product surface — a landing page, a SaaS dashboard, an onboarding flow, a signup form, a navigation menu, a pricing page, marketing copy, or a whole multi-step funnel.
 
 It removes **extraneous** load (effort caused by *how* something is presented) so a user's limited working memory is spent on the actual task — not on decoding the interface.
