@@ -1,6 +1,11 @@
 ---
 name: cognitive-load-minimization
 description: Audit and reduce the cognitive load of any product surface — a landing page, a SaaS dashboard, an onboarding flow, a signup form, a navigation menu, a pricing page, marketing copy, or a whole multi-step funnel. Use this skill whenever the user wants something "simpler," "clearer," "easier to scan," "less overwhelming," "more intuitive," or "higher converting"; whenever they ask for a UX review, a copy review, an IA/navigation review, or a friction audit; or whenever they share screenshots, component code, sitemaps, menu structures, or marketing copy and want it optimized for how real users actually perceive and decide. Trigger it even when the user doesn't say the words "cognitive load" — phrasings like "why is this confusing," "people drop off here," "make the flow smoother," or "tighten this copy" all qualify.
+license: MIT
+compatibility: Requires an agent runtime that can dispatch parallel subagents (e.g. Claude Code, Codex, Copilot CLI, Gemini CLI). Optional browser/screenshot tooling improves visual-hierarchy findings.
+metadata:
+  author: EgehanYildiz
+  version: "1.0"
 ---
 
 # Cognitive Load Minimization

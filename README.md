@@ -42,18 +42,19 @@ No dependency on any other skill. Works on any runtime that can dispatch subagen
 ## Structure
 
 ```
-skills/
-  cognitive-load-minimization/
-    SKILL.md            # 8-phase orchestration
-    references/
-      principles.md     # the theory (named laws & heuristics)
-      audit-checklist.md# operational checks (Pass A–D)
-      lenses.md         # the four parallel subagent briefs + output schema
-      audit-loop.md     # adversarial false-positive elimination
-      interview.md      # branch-A interview
-      report-template.md# single-report template + severity normalization
-      plan-template.md  # implementation plan template
+SKILL.md              # 8-phase orchestration
+references/
+  principles.md       # the theory (named laws & heuristics)
+  audit-checklist.md  # operational checks (Pass A–D)
+  lenses.md           # the four parallel subagent briefs + output schema
+  audit-loop.md       # adversarial false-positive elimination
+  interview.md        # branch-A interview
+  report-template.md  # single-report template + severity normalization
+  plan-template.md    # implementation plan template
+LICENSE · README.md
 ```
+
+The skill lives at the repo root (the directory name matches the skill `name`), so `npx skills add EgehanYildiz/cognitive-load-minimization` resolves it directly.
 
 ## License
 
